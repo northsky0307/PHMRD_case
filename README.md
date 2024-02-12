@@ -1,2 +1,2 @@
 # PHMRD_case
-10 sample of PHMRD dataset.
+10 samples in PHMRD dataset.
